@@ -1,7 +1,6 @@
 # WhatsApp Clone React-Native
 
-twitterCloneReactNative
-Checkout DEMO on Expo:
+## Checkout DEMO on Expo:
 https://expo.io/@maksimborovets1992/projects/WhatsApp
 
 How I did it 👇
